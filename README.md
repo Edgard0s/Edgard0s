@@ -1,14 +1,8 @@
-# 💼 Edgar Cruz
-
-Una Disculpa estoy haciendo prevas de como hacer mi cv aqui saludos 
+# 💼 Welcome i´m Edgar Cruz
 
 **Desarrollador Web | JavaScript | PHP | CS3 | Node.js**
 
-📧 @Gmail.com  
-🌐 [.com](https://.com)  
-🔗 [LinkedIn](https://linkedin.com/) | [GitHub](https://)
 
----
 
 ## 🧠 Sobre mí
 
@@ -16,47 +10,16 @@ Soy un desarrollador Full Stack con más de 3 años de experiencia creando aplic
 
 ---
 
-## 🛠 Habilidades Técnicas
+### 🛠 Tecnologías
 
-- **Lenguajes:** JavaScript, Java  
-- **Frontend:** React, Next.js, HTML5, CSS3, 
-- **Backend:** Node.js, Express, Django, PostgreSQL, MongoDB  
-- **DevOps:** Docker, Git, GitHub Actions  
-- **Otros:** Figma, Jira, REST APIs
-
----
-
-## 🧳 Experiencia
-
-### 🏢 Desarrollador Servicenow  
-**Empresa Devoteam** – Remoto | *2022 - 2022*  
-- Desarrollé una plataforma de e-commerce con React y Node.js, aumentando ventas un 30%.  
-- Implementé autenticación con JWT y OAuth2.  
-- Integración de pagos con Stripe y PayPal.
-
-### 👨‍💻 Analista de Monitoreo  
-**SNG** – remoto | *2023 - 2023*  
-- Mantuve y mejoré APIs REST en Python/Django.  
-- Escribí tests automatizados, aumentando cobertura de código en un 40%.
-
----
-
-## 🎓 Educación
-
-**ING en Sistemas Computacionales**  
-Universidad Tecnologico Nacional de Mexico – *2011 - 2016*
-
----
-
-## 🧪 Proyectos Destacados
-
-### 📱 [App de Clima React](https://github.com/)
-Aplicación del clima usando la API de OpenWeatherMap. React + Tailwind.
-
-### 🎮 [Juego en JavaScript](https://github.com/)
-Juego interactivo de preguntas y respuestas en JavaScript Vanilla.
-
----
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
+</p>
 
 ## 📫 Contacto
 
