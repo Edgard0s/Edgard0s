@@ -1,9 +1,11 @@
 # 💼 Edgar Cruz
 
-**Desarrollador Full Stack | JavaScript | PHP | CS3 | Node.js**
+Una Disculpa estoy haciendo prevas de como hacer mi cv aqui saludos 
+
+**Desarrollador Web | JavaScript | PHP | CS3 | Node.js**
 
 📧 @Gmail.com  
-🌐 [miportafolio.com](https://.com)  
+🌐 [.com](https://.com)  
 🔗 [LinkedIn](https://linkedin.com/) | [GitHub](https://)
 
 ---
@@ -26,14 +28,14 @@ Soy un desarrollador Full Stack con más de 3 años de experiencia creando aplic
 
 ## 🧳 Experiencia
 
-### 🏢 Desarrollador Full Stack  
-**Empresa XYZ** – Remoto | *2022 - Presente*  
+### 🏢 Desarrollador Servicenow  
+**Empresa Devoteam** – Remoto | *2022 - 2022*  
 - Desarrollé una plataforma de e-commerce con React y Node.js, aumentando ventas un 30%.  
 - Implementé autenticación con JWT y OAuth2.  
 - Integración de pagos con Stripe y PayPal.
 
-### 👨‍💻 Desarrollador Backend Junior  
-**Startup ABC** – Buenos Aires | *2020 - 2022*  
+### 👨‍💻 Analista de Monitoreo  
+**SNG** – remoto | *2023 - 2023*  
 - Mantuve y mejoré APIs REST en Python/Django.  
 - Escribí tests automatizados, aumentando cobertura de código en un 40%.
 
