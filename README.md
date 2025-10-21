@@ -25,6 +25,6 @@ Soy un desarrollador Full Stack con más de 3 años de experiencia creando aplic
 ¡Estoy abierto a nuevas oportunidades y colaboraciones!
 
 📧 **@gmail.com**  
-🔗 [linkedin.com/in/juanperez](https://linkedin.com/)
+🔗 [linkedin.com/](https://linkedin.com/)
 
 ---
