@@ -30,7 +30,7 @@ Soy un desarrollador Web con más de 2 años de experiencia creando aplicaciones
 
 ¡Estoy abierto a nuevas oportunidades y colaboraciones!
 
-📧 **@gmail.com**  
-🔗 [linkedin.com/](https://linkedin.com/)
+📧 **edgarivancruzram@outlook.com**  
+🔗 [linkedin.com/](https://www.linkedin.com/in/edgar-iv%C3%A1n-cruz-ram%C3%ADrez-46114019b/)
 
 ---
