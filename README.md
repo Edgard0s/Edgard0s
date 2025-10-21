@@ -6,7 +6,7 @@
 
 ## 🧠 Sobre mí
 
-Soy un desarrollador Full Stack con más de 3 años de experiencia creando aplicaciones web modernas. Me apasiona resolver problemas y construir soluciones escalables con tecnologías actuales.
+Soy un desarrollador Web con más de 2 años de experiencia creando aplicaciones web modernas. Me apasiona resolver problemas y construir soluciones escalables con tecnologías actuales.
 
 ---
 
